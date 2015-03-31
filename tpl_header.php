@@ -25,7 +25,6 @@ if (!defined('DOKU_INC')) die();
                             echo '</li>';
                         }
                         tpl_action('admin', 1, 'li');
-                        tpl_action('profile', 1, 'li');
                         tpl_action('register', 1, 'li');
                         tpl_action('login', 1, 'li');
                     ?>
