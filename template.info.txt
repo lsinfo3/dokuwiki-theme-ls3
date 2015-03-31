@@ -1,0 +1,7 @@
+base     ls3
+author   All of us
+email    admin3@informatik.uni-wuerzburg.de
+date     1970-01-01
+name     LS3 design
+desc     LS3 design
+url      http://www3.informatik.uni-wuerzburg.de
